@@ -15,13 +15,13 @@ plugins:
   - jekyll-sitemap
 
 author:
-  name: "Your Name"
+  name: "Hiren"
   avatar: "/assets/images/avatar.svg"
   bio: "Mechanical engineer (MEng) doing modeling & simulation. I build high‑fidelity FEA, write Python for data, and tinker with ML + LLMs to make engineering calmer and clearer."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/your-username"
+  #links:
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/your-username"
 
 defaults:
   - scope:
