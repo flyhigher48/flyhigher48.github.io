@@ -1,0 +1,51 @@
+# _config.yml
+title: "Chaos to Clarity"
+description: "A shared framework for engineering files—so you can find anything in under a minute."
+url: "https://your-username.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "mint"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.svg"
+  bio: "Mechanical engineer (MEng) doing modeling & simulation. I build high‑fidelity FEA, write Python for data, and tinker with ML + LLMs to make engineering calmer and clearer."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/your-username"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor"
+  - ".github"
+  - "_site"
