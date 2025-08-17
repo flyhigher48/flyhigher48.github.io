@@ -2,7 +2,7 @@
 title: "LLM Notes from the Field: A Working Brain Dump"
 description: "Ongoing experiments with local vLLM, MCP integrations, agents, prompts, and small automations for engineering work."
 date: 2025-08-16
-categories: [llm-notes]
+categories: [llm-ml]
 tags: [llm, vllm, engineering, productivity, prompts, workflows, mcp, agents]
 published: false
 ---

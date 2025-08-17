@@ -2,7 +2,7 @@
 title: "From Chaos to Clarity — Part 1: A Friendly Framework for Engineering Files"
 description: "Why smart people lose files—and a shared framework for finding them again."
 date: 2025-08-16
-categories: [framework]
+categories: [org-data, framework]
 tags: [engineering, workflow, PARA, knowledge-management, FEA, CFD, thermal, productivity]
 ---
 

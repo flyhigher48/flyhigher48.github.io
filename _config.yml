@@ -1,11 +1,14 @@
 # _config.yml
-title: "Chaos to Clarity"
-description: "A shared framework for engineering files—so you can find anything in under a minute."
-url: "https://your-username.github.io"
+title: "Notes from a Working Engineer"
+description: "Notes, experiments, and systems—from engineering and ML/LLM to organization, process, and life in motion."
+url: "https://flyhigher48.github.io"
 baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "mint"
+
+# Change the skin here to try different accents:
+# Options: air (clean), aqua (blue), contrast (bold), dark, dirt, focus, mint, neon, plum, sunrise
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-include-cache
@@ -18,10 +21,10 @@ author:
   name: "Hiren"
   avatar: "/assets/images/avatar.svg"
   bio: "Mechanical engineer (MEng) doing modeling & simulation. I build high‑fidelity FEA, write Python for data, and tinker with ML + LLMs to make engineering calmer and clearer."
-  #links:
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/your-username"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/flyhigher48"
 
 defaults:
   - scope:
@@ -33,6 +36,7 @@ defaults:
       read_time: true
       share: true
       related: true
+      image: "/assets/images/social/default.png"   # ← default social card for posts
 
 collections:
   pages:
