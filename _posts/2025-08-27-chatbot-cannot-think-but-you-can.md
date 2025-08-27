@@ -1,7 +1,7 @@
 ---
 title: "Chatbots Can’t Think—But You Can"
 description: "A plain-English intro to LLMs: probability machines, why outputs need verification, better prompting, 'reasoning' models, and RAG—with a $500/hr prompt to start."
-date: 2025-08-16
+date: 2025-08-27
 categories: [llm-ml]
 tags: [llm, engineering, productivity, prompts, workflows, mcp, agents]
 published: true
