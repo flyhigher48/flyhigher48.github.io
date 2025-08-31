@@ -10,6 +10,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Options: air (clean), aqua (blue), contrast (bold), dark, dirt, focus, mint, neon, plum, sunrise
 minimal_mistakes_skin: "air"
 
+# Enable pagination so the home page lists recent posts
+paginate: 7
+paginate_path: "/page:num/"
+
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
