@@ -1,10 +1,9 @@
 ---
-
 title: "Your Passwords, Your Hardware: Pi 5 + Docker + Encrypted Backups"
 description: "Step-by-step: Pi 5 + Docker install, NTP/TZ time sync, desktop-first account to avoid iPhone JWT issues, Argon2 admin token, and rclone+restic nightly encrypted backups to Google Drive—plus LAN-only firewall allow-listing."
 date: 2025-08-31
-categories: \[organization-data, productivity-process]
-tags: \[self-hosting, homelab, security, backups, encryption, vaultwarden, bitwarden, raspberry-pi, docker, compose, rclone, restic, google-drive, ntp, firewall]
+categories: [organization-data, productivity-process]
+tags: [self-hosting, homelab, security, backups, encryption, vaultwarden, bitwarden, raspberry-pi, docker, compose, rclone, restic, google-drive, ntp, firewall]
 published: true
 ---------------
 
