@@ -1,19 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Topics"
-    children:
-      - title: "LLMs & ML"
-        url: /topics/llm-ml/
-      - title: "Engineering practice"
-        url: /topics/engineering-practice/
-      - title: "Organization & data"
-        url: /topics/org-data/
-      - title: "Productivity & process"
-        url: /topics/productivity/
-      - title: "Life in motion"
-        url: /topics/life/
-      - title: "Random brain dump"
-        url: /topics/brain-dump/
+  - title: "All Posts"
+    url: /all-posts/
   - title: "About"
     url: /about/
