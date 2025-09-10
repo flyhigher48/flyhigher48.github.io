@@ -2,10 +2,10 @@
 title: "Your Passwords, Your Hardware: Pi 5 + Docker + Encrypted Backups"
 description: "Step-by-step: Pi 5 + Docker install, NTP/TZ time sync, desktop-first account to avoid iPhone JWT issues, Argon2 admin token, and rclone+restic nightly encrypted backups to Google Drive—plus LAN-only firewall allow-listing."
 date: 2025-08-31
-categories: [organization-data, productivity-process]
+categories: [org-data, productivity]
 tags: [self-hosting, homelab, security, backups, encryption, vaultwarden, bitwarden, raspberry-pi, docker, compose, rclone, restic, google-drive, ntp, firewall]
 published: true
----------------
+---
 
 Why rent your password manager when you can **own** it? With a Raspberry Pi 5 and Docker, you can run **Vaultwarden** (the lightweight, open-source Bitwarden-compatible server) at home, keep your vault on **your hardware**, and sync it across **iPhone/iPad/Mac (Apple), Windows, Android, and Linux** using the official Bitwarden apps and browser extensions—**without paying monthly fees** for someone else’s cloud.
 
