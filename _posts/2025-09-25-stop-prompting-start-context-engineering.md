@@ -255,4 +255,4 @@ Wait for answers, then produce the deliverable.
 
 LLMs aren’t minds. They’re mirrors and amplifiers. With **context engineering**, **reverse prompting**, and **hard-nosed feedback**, you turn a yes-bot into a thinking partner—one that challenges you, not flatters you. Do that consistently and you’ll keep stepping into the **adjacent possible**—one clear, well-scoped task at a time.
 
-[1]: https://www.youtube.com/watch?v=yMOmmnjy3sE "Stanford's Practical Guide to 10x Your AI Productivity | Jeremy Utley"
+[1]: https://www.youtube.com/watch?v=yMOmmnjy3sE "Stanford's Practical Guide to 10x Your AI Productivity Jeremy Utley"
