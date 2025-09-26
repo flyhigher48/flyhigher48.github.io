@@ -88,7 +88,7 @@ That cheeky “**Score: 42**” moment beats “Looks good!” every time.
 
 ## Bias guardrails: design against your own blind spots
 
-Jeremy’s core warning: AI mirrors **100% of human biases**. Don’t let it amplify yours.
+Jeremy’s core warning: AI mirrors **100% of human biases**. Don’t let it amplify yours ([Jeremy Utley][1]).
 
 1. **Request dissent by default**
 
@@ -172,7 +172,7 @@ Run the loop twice: once friendly, once adversarial.
 
 ## Numbers to keep perspective
 
-Jeremy cites stats from the AI-assisted coding world: **~2.5M builders** producing **~100,000 products/day**. Whether those exact numbers fluctuate, the takeaway holds—barriers to execution are collapsing. The bottleneck is shifting from **ability** to **imagination**.
+Jeremy cites stats from the AI-assisted coding world: **~2.5M builders** producing **~100,000 products/day** ([Jeremy Utley][1]). Whether those exact numbers fluctuate, the takeaway holds—barriers to execution are collapsing. The bottleneck is shifting from **ability** to **imagination**.
 
 ---
 
@@ -254,3 +254,5 @@ Wait for answers, then produce the deliverable.
 ### Bring it home
 
 LLMs aren’t minds. They’re mirrors and amplifiers. With **context engineering**, **reverse prompting**, and **hard-nosed feedback**, you turn a yes-bot into a thinking partner—one that challenges you, not flatters you. Do that consistently and you’ll keep stepping into the **adjacent possible**—one clear, well-scoped task at a time.
+
+[1]: https://www.youtube.com/watch?v=yMOmmnjy3sE "Stanford's Practical Guide to 10x Your AI Productivity | Jeremy Utley"
